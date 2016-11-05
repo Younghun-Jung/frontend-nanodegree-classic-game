@@ -1,0 +1,22 @@
+
+
+body {
+		text-align: center;
+}
+
+h1 {
+		padding: 5px 0;
+		color: white;
+		background-color: black;
+}
+
+a {
+	color: #3399cc;
+	text-decoration: none;
+}
+
+.lives {
+	width: 100%;
+	font-size: 1.5em;
+	margin: auto;
+}
